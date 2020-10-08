@@ -3,7 +3,7 @@
     height: 500px;
     width: 100%;
     color: white;
-    background-image: linear-gradient(to bottom right, #132E4C, #2872A7);
+    background-image: linear-gradient(140deg,#330033,#660066,#800080,#990099,#ff0080);
 }
 .content
 {
@@ -31,7 +31,7 @@
     margin-top: 0px;
 }
 .button:hover {
-    background-image: linear-gradient(to bottom right, #132E4C, #2872A7);
+   background-image: linear-gradient(140deg,#330033,#660066,#800080,#990099,#ff0080);
     color: white;
   }
   .navbar-toggler {
@@ -39,7 +39,7 @@
   }
 .top
 {
-    background-color: #307AB1;
+    background-color: #660066;
     text-decoration-color: white;
 
 }
